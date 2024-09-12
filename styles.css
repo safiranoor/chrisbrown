@@ -1,0 +1,187 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tekstopmaak img{ 
+    margin-top: 7%;
+}
+
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: monospace;
+    font-size: 70px;
+}
+
+header h2 {
+    text-align: center;
+    color: white;
+    font-family: monospace;
+    font-size: 20px;
+    padding-top: 0%;
+    padding-left: 0%;
+}
+
+h2 {
+    color: black;
+    font-family: monospace;
+    padding-left: 20%;
+    padding-top: 10%;
+}
+
+body {
+    background-color: white;
+}
+
+img {
+    max-width: 100%;
+    width: 100%;
+}
+
+.footerafwijking2 {
+    margin-top: 95%;
+    background-color: black;
+    color: white;
+}
+
+footer p {
+    background-color: black;
+    font-family: monospace;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+p {
+    display: block;
+    text-align: justify;
+    padding: 10%;
+    padding-top: 5%;
+    padding-right: 20%;
+    padding-left: 20%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.spotify {
+    position: absolute;
+    width: 2%;
+    left: 84%;
+    top: 30%;
+}
+
+.insta {
+    position: absolute;
+    width: 2%;
+    left: 87%;
+    top: 30%;
+
+}
+
+.twitter {
+    position: absolute;
+    width: 2%;
+    left: 90%;
+    top: 30%;
+
+}
+
+header {
+    position: fixed;
+    background-color: black;
+    width: 100%;
+}
+
+nav {
+    margin: 10px;
+    padding: 15px;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    position: fixed;
+}
+
+.nav-2 ul li {
+    background: #000000;
+}
+
+a {
+    transition: 0.6s;
+    color: #ffffff;
+    font-size: 15px;
+    text-decoration: none;
+    padding: 30px 2px 0 10px;
+    top: 50%;
+    margin: auto;
+}
+
+a:hover {
+    color: red;
+}
+
+.artworkpadding {
+    padding-top: 15%;
+}
+
+.artworkpadding img {
+    float: left;
+    width: 33.3%;
+    padding: 50px;
+    height: 100%;
+    background-color: white;
+    transition: transform .2s;
+}
+
+.artworkpadding img:hover {
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.artwork img {
+    float: left;
+    width: 33.3%;
+    padding: 50px;
+    height: 100%;
+    background-color: white;
+    transition: transform .2s;
+}
+
+.artwork img:hover {
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.flex-container {
+    display: flex;
+    background-color: white;
+}
+
+.flex-container a {
+    background-color: white;
+    margin: 0.5%;
+    padding: 1%;
+}
+
+.top1 {
+    width: 30%;
+    height: 30%;
+    padding-top: 15%;
+    margin-left: 33%;
+}
+
+.top23 {
+    width: 30%;
+    height: 30%;
+    padding-top: 5%;
+    margin-left: 33%;
+}
+
+.footerafwijking {
+    margin-top: 5%;
+    color: white;
+}
